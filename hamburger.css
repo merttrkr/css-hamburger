@@ -1,0 +1,110 @@
+.plate {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(122, 230, 149);
+  border-style: solid;
+  border-width: 1px; 
+  border-radius: 100%;
+  border-color: rgb(93, 202, 93);
+  box-shadow: 20px 15px #a8a8a84f;
+}
+.top{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 171, 115);
+    border-style: solid;
+    border-width: 1px; 
+    border-top-left-radius: 125px;
+    border-top-right-radius: 125px;
+    border-color: rgb(255, 171, 115);
+    float: left;
+    margin-left:150px;
+    margin-top: 100px;
+
+}
+.lettuce{
+   width: 180px;
+   height: 20px ;
+   background-color: rgb(13, 134, 43);
+   border-style: solid;
+   border-width: 1px; 
+   border-color: rgb(13, 134, 43);
+   float: left;
+   border-top-left-radius: 100px;
+   border-top-right-radius: 100px;
+   border-bottom-left-radius: 100px;
+   border-bottom-right-radius: 100px;
+   margin-left:160px;
+   
+}
+.tomato{
+    width: 180px;
+    height: 20px ;
+    background-color: tomato;
+    border-style: solid;
+    border-width: 1px; 
+    border-color: tomato;
+    float: left;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin-left:160px;
+
+ }
+ .meat{
+    width: 180px;
+    height: 20px ;
+    background-color: brown;
+    border-style: solid;
+    border-width: 1px; 
+    border-color: brown;
+    float: left;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin-left:160px;
+    
+ }
+ .bottom{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 171, 115);
+    border-style: solid;
+    border-width: 1px; 
+    border-bottom-left-radius: 125px;
+    border-bottom-right-radius: 125px;
+    border-color: rgb(255, 171, 115);
+    float: left;
+    margin-left:150px;
+    
+}
+.sesame1{
+    width: 20px;
+    height: 20px;
+    background-color: blanchedalmond;
+    border-style: none;
+    border-width: 1px;
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.sesame2{
+    width: 20px;
+    height: 20px;
+    background-color: blanchedalmond;
+    border-style: none;
+    border-width: 1px;
+    border-radius: 100%;
+    margin-left: 90px;
+  }
+.sesame3{
+    width: 20px;
+    height: 20px;
+    background-color: blanchedalmond;
+    border-style: none;
+    border-width: 1px;
+    border-radius: 100%;
+    margin-left: 120px;
+ }
